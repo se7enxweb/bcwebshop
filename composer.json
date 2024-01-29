@@ -4,7 +4,7 @@
     "type": "ezpublish-legacy-extension",
     "keywords": [ "eZ Publish", "eZ Publish Legacy", "eZ Publish Platform", "shop", "webshop", "store", "extension", "usa", "north-america" ],
     "homepage": "https://github.com/se7enxweb/bcgmapslocation",
-    "license": "GPL-2.0+",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name" : "7x",
