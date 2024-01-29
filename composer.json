@@ -3,7 +3,7 @@
     "description": "eZ Publish Legacy extension which provides a simple solution for extending thet default eZ Publish Web Shop within an well developed extension. Great for smart developers!",
     "type": "ezpublish-legacy-extension",
     "keywords": [ "eZ Publish", "eZ Publish Legacy", "eZ Publish Platform", "shop", "webshop", "store", "extension", "usa", "north-america" ],
-    "homepage": "https://github.com/se7enxweb/bcgmapslocation",
+    "homepage": "https://github.com/se7enxweb/bcwebshop",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
