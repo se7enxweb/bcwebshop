@@ -13,10 +13,11 @@ class bcwebshopInfo
     {
         return array(
             'Name' => "<a href='https://github.com/bcwebshop'>BC Web Shop</a>",
-            'Version' => "0.8.1",
+            'Version' => "0.8.2",
             'Copyright' => "Copyright (C) 1999 - 2024 <a href='https://se7enx.com'>7x</a> and <a href='https://brookinsconsulting.com'>Brookins Consulting</a> and <a href='https://ibexa.no'>eZ Systems AS</a>",
             'Author' => "7x",
-            'License' => "GNU General Public License"
+            'License' => "GNU General Public License v2.0 (or any later version)",
+            'Info_url' => "https://github.com/se7enxweb/bcwebshop"
         );
     }
 }
